@@ -1,4 +1,3 @@
-# MLproject
 # AutoStreamML
 
 ![AutoStreamML](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cG6U1qstYDijh9bPL42e-Q.jpeg)
